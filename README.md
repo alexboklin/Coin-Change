@@ -1,5 +1,3 @@
-Calculates all possible ways to give change for N coins given a set of coin value
-
 Suppose we are given a set of positive coin values sorted in ascending order. 
 The task is to produce all possible ways of using these coin values in order to produce the given amount. 
 Here's an example:
